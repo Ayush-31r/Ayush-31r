@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
 <h3 align="center">A Eager Backend developer</h3>
-
+<div align="center" height = "0.5cm">
+  <img src="https://gifdb.com/images/high/ice-bear-laptop-typing-working-busy-rcs9s9lq7r1dz93t.webp" alt="coding">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-31r&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-31r" /> </p>
 
 <h3 align="left">Connect with me:</h3>
