@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
-<h3 align="center">A Eager Backend developer</h3>
+<h3 align="center">An Eager Backend developer</h3>
 <div align="center" height = "0.5cm">
   <img src="https://gifdb.com/images/high/ice-bear-laptop-typing-working-busy-rcs9s9lq7r1dz93t.webp" alt="coding">
 </div>
