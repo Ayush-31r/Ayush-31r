@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
 <h3 align="center">An Eager Backend developer</h3>
 <div align="center" height = "0.5cm">
-  <img src="https://gifdb.com/images/high/ice-bear-laptop-typing-working-busy-rcs9s9lq7r1dz93t.webp" alt="coding">
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="coding">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-31r&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-31r" /> </p>
 
