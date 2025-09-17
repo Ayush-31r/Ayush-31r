@@ -15,8 +15,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,html,css,django,flask,fastapi,react,tailwind,postgresql,mysql,mongodb,git,github,docker,aws,gcp,linux" />
+  <!-- Row 1: Languages & Backend -->
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,django,flask,fastapi,git,github,postgres,mongodb&perline=10" />
+  <br/>
+  <!-- Row 2: Cloud, ML, DS tools -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,pytorch,tensorflow,anaconda,matlab&perline=7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="48" />
 </p>
+
 
 
 
